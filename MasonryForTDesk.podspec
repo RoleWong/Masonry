@@ -1,11 +1,14 @@
 Pod::Spec.new do |s|
   s.name     = 'MasonryForTDesk'
-  s.version  = '1.2.0'
+  s.version  = '1.3.0'
   s.license  = 'MIT'
   s.summary  = 'Harness the power of Auto Layout NSLayoutConstraints with a simplified, chainable and expressive syntax.'
-  s.homepage = 'https://github.com/cloudkite/Masonry'
   s.author   = { 'Jonas Budelmann' => 'jonas.budelmann@gmail.com' }
   s.social_media_url = "http://twitter.com/cloudkite"
+  
+  
+  s.homepage     = 'https://cloud.tencent.com/document/product/269/3794'
+  s.documentation_url = 'https://cloud.tencent.com/document/product/269/9147'
 
   s.source   = { :git => 'https://github.com/RoleWong/Masonry.git', :tag => s.version }
 
